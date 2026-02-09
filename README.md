@@ -6,3 +6,4 @@ mas lineas
 
 # Documentacion 1 (Dev 1)
 documento del desarrollador 1
+documento enviado a pc

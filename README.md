@@ -5,4 +5,4 @@ autor: Vicyel Ugueto
 mas lineas
 
 # Documentacion 1 (Dev 1)
-documentacion del desarrollador 1
+documento del desarrollador 1
